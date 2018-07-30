@@ -1,0 +1,7 @@
+Author: Alexandre Santos
+By Jul/2018
+Version 1.0
+
+software: Dashboard
+Formato: .xls
+contato: alex.endrios@hotmail.com
